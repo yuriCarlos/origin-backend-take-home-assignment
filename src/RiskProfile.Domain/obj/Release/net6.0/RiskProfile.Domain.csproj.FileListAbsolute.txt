@@ -1,0 +1,12 @@
+C:\app\build\RiskProfile.Domain.deps.json
+C:\app\build\RiskProfile.Domain.dll
+C:\app\build\RiskProfile.Domain.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.csproj.AssemblyReference.cache
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.AssemblyInfoInputs.cache
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.AssemblyInfo.cs
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.dll
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\refint\RiskProfile.Domain.dll
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\RiskProfile.Domain.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\src\RiskProfile.Domain\obj\Release\net6.0\ref\RiskProfile.Domain.dll

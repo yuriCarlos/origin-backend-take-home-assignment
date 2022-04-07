@@ -1,0 +1,17 @@
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfileCalculator.Application.deps.json
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfileCalculator.Application.dll
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfileCalculator.Application.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfile.CalculatorEngine.dll
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfile.Domain.dll
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfile.CalculatorEngine.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\bin\Debug\net6.0\RiskProfile.Domain.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.csproj.AssemblyReference.cache
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.AssemblyInfoInputs.cache
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.AssemblyInfo.cs
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.csproj.CopyComplete
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.dll
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\refint\RiskProfileCalculator.Application.dll
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\RiskProfileCalculator.Application.pdb
+C:\Projects\OriginTest\RiskProfileCalculator\RiskProfileCalculator.Application\obj\Debug\net6.0\ref\RiskProfileCalculator.Application.dll

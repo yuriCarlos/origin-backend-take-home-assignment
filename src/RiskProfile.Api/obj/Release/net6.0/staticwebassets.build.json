@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mRznTb16r69YuIV0HLYrXlU3x8kozqmdSy7hzGkwmIk=",
+  "Source": "RiskProfile.Api",
+  "BasePath": "_content/RiskProfile.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
